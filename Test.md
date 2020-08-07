@@ -50,11 +50,13 @@ solidworks.com
 
 ![早点睡，不怕死吗？？？](https://github.com/akui777/Markdown777/blob/master/Pic/5acdb40f55386.jpg)
 
-！[funkgirl](https://github.com/akui777/Markdown777/blob/master/Pic/5acdb40f55386.jpg)
+
+
+![aaa](https://github.com/akui777/Markdown777/blob/master/Pic/bear.jpg)
 
 
 
-、hello world、
+![adaf](https://github.com/akui777/Markdown777/blob/master/Pic/bear.jpg)
 
 ```hello world```
 
