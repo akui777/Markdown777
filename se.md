@@ -1,36 +1,7 @@
-> **生成密钥对命令:**
-
-```
-ssh-keygen -t rsa -C "youremail@example.com"
-```
-
-通常保存在`C:\Users\username\.ssh`目录，注意查看
+![big tits](https://cdn.jsdeliver.net/gh/akui777/image/img77720200810184316.png)
 
 
 
 
 
-
-
-
-
-![wallhaven-73zz29_1920x1080](https://cdn.jsdeliver.net/gh/akui777/image/img777wallhaven-73zz29_1920x1080.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![bear](https://cdn.jsdeliver.net/gh/akui777/image/img77720200810184256.jpg)
