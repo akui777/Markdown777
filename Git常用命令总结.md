@@ -307,4 +307,4 @@ tag与branch的操作基本一致，因为tag就是一个仅可读的branch
 
 ### z.6 命令脑图分布
 
-![不开心呀](https://cdn.jsdeliver.net/gh/akui777/image/img77720200811110933.png)
+![不开心呀](https://github.com/akui777/image/blob/master/img77720200811110933.png)
